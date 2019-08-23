@@ -2,3 +2,5 @@ plugins:
   - jekyll-redirect-from
   
 redirect_to: https://www.fahmed.info
+
+page.redirect.to: https://www.fahmed.info
